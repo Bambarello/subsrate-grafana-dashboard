@@ -60,8 +60,8 @@
         "for": "5m",
         "frequency": "1m",
         "handler": 1,
-        "message": "kusama 🐦 chain height error!",
-        "name": "kusama 🐦 Height of the chain alert",
+        "message": "Stafi chain height error!",
+        "name": "Stafi Height of the chain alert",
         "noDataState": "no_data",
         "notifications": [
           {
@@ -207,8 +207,8 @@
         "for": "5m",
         "frequency": "1m",
         "handler": 1,
-        "message": "kusama🐦 node has very small num of peers!",
-        "name": "kusama🐦: Number of network sync peers alert",
+        "message": "Stafi node has very small num of peers!",
+        "name": "Stafi: Number of network sync peers alert",
         "noDataState": "no_data",
         "notifications": [
           {
@@ -1309,7 +1309,7 @@
     ]
   },
   "timezone": "",
-  "title": "Kusama🐦 Dashboard",
+  "title": "Stafi Dashboard",
   "uid": "twYeaxRMz1121a1",
   "variables": {
     "list": []
